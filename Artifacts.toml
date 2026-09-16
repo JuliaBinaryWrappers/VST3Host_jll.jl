@@ -1,0 +1,158 @@
+[[VST3Host]]
+arch = "aarch64"
+git-tree-sha1 = "418b7f2e7dfc050ab4ae9f27361db9811d46550a"
+os = "macos"
+
+    [[VST3Host.download]]
+    sha256 = "b6b07fd72e1e5bc38578781c3ec613077cbc07cd2038750f5288f2d1d055d0cb"
+    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.2.0+0/VST3Host.v1.2.0.aarch64-apple-darwin.tar.gz"
+[[VST3Host]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9d575d125802d047fc81400784188d08a8265fd2"
+libc = "glibc"
+os = "linux"
+
+    [[VST3Host.download]]
+    sha256 = "4c01fe1863e307e141e3819ea8352227572b316b9dbfe3d6329cda38567b95ab"
+    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.2.0+0/VST3Host.v1.2.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[VST3Host]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7017b1c50e3708a38ed012b69cf85851604cd4fe"
+libc = "musl"
+os = "linux"
+
+    [[VST3Host.download]]
+    sha256 = "ef83a93f34c47edd17ca8682e5b066326ef67b4ad8d96f6b5a98c821eb188cd0"
+    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.2.0+0/VST3Host.v1.2.0.aarch64-linux-musl-cxx11.tar.gz"
+[[VST3Host]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "830f44c459537f86828ab5f20af1e92642d4feb8"
+libc = "glibc"
+os = "linux"
+
+    [[VST3Host.download]]
+    sha256 = "9c97bbdd993bf6d2faf0aee7a278f7f842723900a6358646d0f80b71880cecbb"
+    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.2.0+0/VST3Host.v1.2.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[VST3Host]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e8c21042e9e468859fc9c1c41b6756d617b3091f"
+libc = "musl"
+os = "linux"
+
+    [[VST3Host.download]]
+    sha256 = "2998e6779a516958fbec5954641432fe5785f966ab8dcebdb1eb147cac2fd440"
+    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.2.0+0/VST3Host.v1.2.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[VST3Host]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "207d3dc36e436b130fb10722dd663541dc3c1c14"
+libc = "glibc"
+os = "linux"
+
+    [[VST3Host.download]]
+    sha256 = "3d72e990d01fcb3104991cda09222015560fd71c4632583ad72e6578f0aebdfe"
+    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.2.0+0/VST3Host.v1.2.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[VST3Host]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "46270b0eaa15214876f12d573f751d868da7cd62"
+libc = "musl"
+os = "linux"
+
+    [[VST3Host.download]]
+    sha256 = "8fddc81f42480623c82ac11fd997cb7dc840cb48299f6bfe81d3efbf544a4b68"
+    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.2.0+0/VST3Host.v1.2.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[VST3Host]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "08bb81bfe156edef6d36f137576cce4b5af3befa"
+libc = "glibc"
+os = "linux"
+
+    [[VST3Host.download]]
+    sha256 = "899195050f0a911103c045da73f41ddc74cac84ff88c9546d8c0a0d1926b4ac7"
+    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.2.0+0/VST3Host.v1.2.0.i686-linux-gnu-cxx11.tar.gz"
+[[VST3Host]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "18a47e3d9e82bbae390fafa0ffef3012994c0a4c"
+libc = "musl"
+os = "linux"
+
+    [[VST3Host.download]]
+    sha256 = "aa2ab59633ed59b0aeba4f40daa076635e3bb002796b9212d62e8115c66443b6"
+    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.2.0+0/VST3Host.v1.2.0.i686-linux-musl-cxx11.tar.gz"
+[[VST3Host]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "619f0594505f2a015902dc10c3378f7ad2a41c32"
+os = "windows"
+
+    [[VST3Host.download]]
+    sha256 = "524a8e7aab825b98d49d931d1701507e058fe6a430b5fba7e049c754649f1728"
+    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.2.0+0/VST3Host.v1.2.0.i686-w64-mingw32-cxx11.tar.gz"
+[[VST3Host]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b2ee1bad737f9066048737dcd8ec794a870ba4c8"
+libc = "glibc"
+os = "linux"
+
+    [[VST3Host.download]]
+    sha256 = "c628f8e7fa847f0a8bbf62eecdaea8970bbc22128decc946cd851d077af8a3d2"
+    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.2.0+0/VST3Host.v1.2.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[VST3Host]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "20a60e39e5aaab7fa521d17fc73e0821908b8a5a"
+libc = "glibc"
+os = "linux"
+
+    [[VST3Host.download]]
+    sha256 = "46752ddf710b1b40036e7efd112ef5bb6f639271abaf252b5d5a8a99aff05dc1"
+    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.2.0+0/VST3Host.v1.2.0.riscv64-linux-gnu-cxx11.tar.gz"
+[[VST3Host]]
+arch = "x86_64"
+git-tree-sha1 = "aaf05130ca466ccdecc4a6a9d7d9e79ef3fa95a1"
+os = "macos"
+
+    [[VST3Host.download]]
+    sha256 = "51ae32f1e387b3c7e690db105a84cce1e07c7424edbf1d60cb1e02559d542d1b"
+    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.2.0+0/VST3Host.v1.2.0.x86_64-apple-darwin.tar.gz"
+[[VST3Host]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "333924d0c5934ba5a681f51c0eee7349fe5b08f9"
+libc = "glibc"
+os = "linux"
+
+    [[VST3Host.download]]
+    sha256 = "6459ebbc8ed5818dbd8e60db6b345f5d61d62098de8068384e31ea1fe877396f"
+    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.2.0+0/VST3Host.v1.2.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[VST3Host]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "24927effd78691206b60eab57f938bf5e93f7dec"
+libc = "musl"
+os = "linux"
+
+    [[VST3Host.download]]
+    sha256 = "f8d3df6241f9124c4a5f2993f0e74c358b045bf1d58f15d2872387c7780a18c8"
+    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.2.0+0/VST3Host.v1.2.0.x86_64-linux-musl-cxx11.tar.gz"
+[[VST3Host]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c1dbb4fa4dd3d17b17b7c5605d5419cfd8269bfa"
+os = "windows"
+
+    [[VST3Host.download]]
+    sha256 = "bc9b39ecc97118aeb21bab985c67a0d596f08d62aa5dbeffff170ee61632f79d"
+    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.2.0+0/VST3Host.v1.2.0.x86_64-w64-mingw32-cxx11.tar.gz"
