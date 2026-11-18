@@ -5,7 +5,7 @@ os = "macos"
 
     [[VST3Host.download]]
     sha256 = "2ee55c758c1a94a3d8468aefaeb35eb7df2baa9a9128234f247db153bb1dbb6b"
-    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.3.0+0/VST3Host.v1.3.0.aarch64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.3.0+1/VST3Host.v1.3.0.aarch64-apple-darwin.tar.gz"
 [[VST3Host]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -15,7 +15,7 @@ os = "linux"
 
     [[VST3Host.download]]
     sha256 = "e726710d8282bc481aa094208eca67cc80502550545becbb2679c99b0d01a851"
-    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.3.0+0/VST3Host.v1.3.0.aarch64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.3.0+1/VST3Host.v1.3.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[VST3Host]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -25,7 +25,7 @@ os = "linux"
 
     [[VST3Host.download]]
     sha256 = "75e2a7447e0d71a0b1606b1bfbf38ed71b9d1b393ccd52df3d38adc19fa55d6f"
-    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.3.0+0/VST3Host.v1.3.0.aarch64-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.3.0+1/VST3Host.v1.3.0.aarch64-linux-musl-cxx11.tar.gz"
 [[VST3Host]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -36,7 +36,7 @@ os = "linux"
 
     [[VST3Host.download]]
     sha256 = "fcfafc398e3487da3d9153f37e584af91be0fef5da27c486aa27982b4066b918"
-    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.3.0+0/VST3Host.v1.3.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.3.0+1/VST3Host.v1.3.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[VST3Host]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -47,7 +47,7 @@ os = "linux"
 
     [[VST3Host.download]]
     sha256 = "bd4e2f18eaa418a1150ec55fa57d40c7528bcdfeab7aab8e6b8fb174511a7f90"
-    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.3.0+0/VST3Host.v1.3.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.3.0+1/VST3Host.v1.3.0.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[VST3Host]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -58,7 +58,7 @@ os = "linux"
 
     [[VST3Host.download]]
     sha256 = "a6b3fbb12088b76014fe6b8ee2e9f6a3654e9df3250bf1a12eccaaf27989596b"
-    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.3.0+0/VST3Host.v1.3.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.3.0+1/VST3Host.v1.3.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[VST3Host]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -69,7 +69,7 @@ os = "linux"
 
     [[VST3Host.download]]
     sha256 = "d770dabf7bbc5abc0fa323e168ffcaf90b19b600db639630becb50a930b8f52c"
-    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.3.0+0/VST3Host.v1.3.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.3.0+1/VST3Host.v1.3.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[VST3Host]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -79,7 +79,7 @@ os = "linux"
 
     [[VST3Host.download]]
     sha256 = "8347c6191aadbabea832cd80ca03ecda35492363e24df96a03f057335b3b4f83"
-    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.3.0+0/VST3Host.v1.3.0.i686-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.3.0+1/VST3Host.v1.3.0.i686-linux-gnu-cxx11.tar.gz"
 [[VST3Host]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -89,7 +89,7 @@ os = "linux"
 
     [[VST3Host.download]]
     sha256 = "c2680cf13eabb86c3c2e95213157c9f11e94431122e2dcf457e46a8cbd2ec4d6"
-    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.3.0+0/VST3Host.v1.3.0.i686-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.3.0+1/VST3Host.v1.3.0.i686-linux-musl-cxx11.tar.gz"
 [[VST3Host]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -98,7 +98,7 @@ os = "windows"
 
     [[VST3Host.download]]
     sha256 = "d2f5790d56781dd9b5313aea6ded4c957fd994737ff68a3c81e37a9cb02fcac6"
-    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.3.0+0/VST3Host.v1.3.0.i686-w64-mingw32-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.3.0+1/VST3Host.v1.3.0.i686-w64-mingw32-cxx11.tar.gz"
 [[VST3Host]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -108,7 +108,7 @@ os = "linux"
 
     [[VST3Host.download]]
     sha256 = "177c37ed52bc9bb4db275c5254806794bed9cc6487068f51ad1ae37342a41d2d"
-    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.3.0+0/VST3Host.v1.3.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.3.0+1/VST3Host.v1.3.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[VST3Host]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
@@ -118,7 +118,7 @@ os = "linux"
 
     [[VST3Host.download]]
     sha256 = "f6d0ddec753ac29b1cf4df68272690bb6c7ee17525da0a376d0b893f808a5b80"
-    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.3.0+0/VST3Host.v1.3.0.riscv64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.3.0+1/VST3Host.v1.3.0.riscv64-linux-gnu-cxx11.tar.gz"
 [[VST3Host]]
 arch = "x86_64"
 git-tree-sha1 = "5ada430d734c9eb187b6a2ba58742b01ae8d6d2a"
@@ -126,7 +126,7 @@ os = "macos"
 
     [[VST3Host.download]]
     sha256 = "1392fe6d0d540debacc7ec4ae70e18514bb35c52dd83ddcd81ad92c6e0765416"
-    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.3.0+0/VST3Host.v1.3.0.x86_64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.3.0+1/VST3Host.v1.3.0.x86_64-apple-darwin.tar.gz"
 [[VST3Host]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -136,7 +136,7 @@ os = "linux"
 
     [[VST3Host.download]]
     sha256 = "fc72b22e24c1fa5875a2792f6eb5c42a4a6cc913349a56559d489abe80fde1b6"
-    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.3.0+0/VST3Host.v1.3.0.x86_64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.3.0+1/VST3Host.v1.3.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[VST3Host]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -146,7 +146,7 @@ os = "linux"
 
     [[VST3Host.download]]
     sha256 = "cb58dd6375ec39d7236b0c45b7e24dc6b30bfcf3ee4871dd07bf903c9ec75854"
-    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.3.0+0/VST3Host.v1.3.0.x86_64-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.3.0+1/VST3Host.v1.3.0.x86_64-linux-musl-cxx11.tar.gz"
 [[VST3Host]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -155,4 +155,4 @@ os = "windows"
 
     [[VST3Host.download]]
     sha256 = "cdbcdf989039109c6118a9c7859915076f78edb82d3be9dab8f5b67a8913ab7c"
-    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.3.0+0/VST3Host.v1.3.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/VST3Host_jll.jl/releases/download/VST3Host-v1.3.0+1/VST3Host.v1.3.0.x86_64-w64-mingw32-cxx11.tar.gz"

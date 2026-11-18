@@ -1,4 +1,4 @@
-# `VST3Host_jll.jl` (v1.3.0+0)
+# `VST3Host_jll.jl` (v1.3.0+1)
 
 [![deps](https://juliahub.com/docs/VST3Host_jll/deps.svg)](https://juliahub.com/ui/Packages/General/VST3Host_jll/)
 
